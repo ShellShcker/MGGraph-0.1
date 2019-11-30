@@ -5,7 +5,7 @@
 
 MGGraph es un sistema analítico enfocado en los resultados de los modelos predictivos de MGDrive. El sistema consiste en gráficas que cambian dinámicamente dependiendo de las herramientas que se usan.
 
-![Index](rsc\Index.png)
+![Index](rsc/Index.png)
 
 
 
