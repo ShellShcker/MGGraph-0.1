@@ -11,6 +11,15 @@ MGGraph es un sistema analítico enfocado en los resultados de los modelos predi
 
 La herramienta está desarrollada en Python, usando Django, Bokeh y Pandas como las librerías principales.
 
+Las versiones que hay que contemplar para el funcionamiento de la herramienta son los siguientes:
+
+| Herramienta | Versión |
+| ----------- | ------- |
+| Python      | 3.6.9   |
+| Bokeh       | 1.3.4   |
+| Django      | 2.2.6   |
+| Pandas      | 0.25.3  |
+
 Para utilizar la herramienta se necesita clonar el dispositivo y acceder al ambiente virtual de desarrollo (**mggraph_venv**):
 
 `source mggraph/bin/activate`
