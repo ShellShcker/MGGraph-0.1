@@ -22,9 +22,9 @@ Las versiones que hay que contemplar para el funcionamiento de la herramienta so
 
 Para utilizar la herramienta se necesita clonar el dispositivo y acceder al ambiente virtual de desarrollo (**mggraph_venv**):
 
-`source mggraph/bin/activate`
+`source mggraph_venv/bin/activate`
 
 Una vez activado, se corre la aplicación de Django:
 
-`python manage.py runserver`
+`python MGGraph/manage.py runserver`
 
